@@ -1,4 +1,5 @@
-#The Multi-Agent Pac-Man
+The Multi-Agent Pac-Man
+
 Part 1: Reflex Agent
 In this part we improved the reflex agent to perform well with an average score of 1246. At first we tested the reflex agent with only food proximity changes from one state to the other.
 1. But that did not take into account the ghost positions, so Pacman would often get killed.
